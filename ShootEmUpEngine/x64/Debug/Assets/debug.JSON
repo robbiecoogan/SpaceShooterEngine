@@ -1,0 +1,70 @@
+{
+ "Background0": {
+  "destRect.h": 482,
+  "destRect.w": 1020,
+  "destRect.x": 0,
+  "destRect.y": 30,
+  "fileDir": "Assets\\otherBackground.png",
+  "scrollSpeed": 0.0
+ },
+ "Player0": {
+  "Event0": {
+   "Action0": {
+    "ActionID": 5,
+    "xVelocity": 0.0,
+    "yVelocity": -1.0
+   },
+   "eventID": 7,
+   "numOfActions": 1
+  },
+  "Event1": {
+   "Action0": {
+    "ActionID": 5,
+    "xVelocity": 0.0,
+    "yVelocity": 1.0
+   },
+   "eventID": 8,
+   "numOfActions": 1
+  },
+  "Event2": {
+   "Action0": {
+    "ActionID": 4,
+    "shootFreq": 0.0,
+    "shootSpeed": 10.0
+   },
+   "eventID": 11,
+   "numOfActions": 1
+  },
+  "Event3": {
+   "Action0": {
+    "ActionID": 7,
+    "xVelocity": 0.9399999976158142,
+    "yVelocity": 0.9399999976158142
+   },
+   "eventID": 12,
+   "numOfActions": 1
+  },
+  "XY.h": 0,
+  "XY.w": 0,
+  "XY.x": 0,
+  "XY.y": 0,
+  "bulletFilePath": "Assets\\orbShot.png",
+  "destRect.h": 98,
+  "destRect.w": 76,
+  "destRect.x": 20,
+  "destRect.y": 167,
+  "health": 100,
+  "numEvents": 4,
+  "shipFilePath": "Assets\\otherShip.png",
+  "shipSpeed": 10.0,
+  "shootPointX": 76,
+  "shootPointY": 49
+ },
+ "StartupInfo": {
+  "BackgroundCount": 1,
+  "EnemyCount": 0,
+  "PlayerCount": 1,
+  "ScreenHeight": 482,
+  "ScreenWidth": 1020
+ }
+}

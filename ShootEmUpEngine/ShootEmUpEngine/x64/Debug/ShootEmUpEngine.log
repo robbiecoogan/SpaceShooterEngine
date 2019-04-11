@@ -1,0 +1,235 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (d.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ActionSelectionWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\actionselectionwindow.cpp(56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\actionselectionwindow.cpp(66): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AddScoreWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\addscorewindow.cpp(52): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\addscorewindow.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AddVelocityWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\addvelocitywindow.cpp(55): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\addvelocitywindow.cpp(58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Animator.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\animator.cpp(66): warning C4018: '>': signed/unsigned mismatch
+  Component.cpp
+  DoAnimationWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\doanimationwindow.cpp(64): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\doanimationwindow.cpp(67): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DoSoundEffectWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\dosoundeffectwindow.cpp(50): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\dosoundeffectwindow.cpp(53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EngineManager.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\enginemanager.cpp(58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EventManager.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.cpp(8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.cpp(17): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EventSelectionWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventselectionwindow.cpp(58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventselectionwindow.cpp(68): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EXCollisionManager.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excollisionmanager.cpp(58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EXComponent.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(51): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(75): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(79): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(99): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(103): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(110): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(111): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(122): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(126): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(155): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(198): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(204): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(210): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(216): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(222): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(241): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\excomponent.cpp(281): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EXGameEngine.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameengine.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameengine.cpp(172): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameengine.cpp(173): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameengine.cpp(202): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameengine.cpp(296): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameengine.cpp(383): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EXGameObject.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(120): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(121): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(123): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(124): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(138): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(144): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(147): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(160): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(161): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(191): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(192): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(220): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.cpp(221): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  EXGOBackground.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobackground.cpp(20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobackground.cpp(21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  EXGOBullet.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobullet.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobullet.cpp(11): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobullet.cpp(12): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobullet.cpp(17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobullet.cpp(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobullet.cpp(35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgobullet.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  EXGOEnemy.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgoenemy.cpp(7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgoenemy.cpp(21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgoenemy.cpp(22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  FileDialog.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(38): warning C4129: ' ': unrecognized character escape sequence
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(98): warning C4129: ' ': unrecognized character escape sequence
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(294): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(295): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(296): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(321): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(327): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(429): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(430): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(431): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(456): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(462): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(690): warning C4129: ' ': unrecognized character escape sequence
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(796): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(797): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\filedialog.cpp(893): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\gameobject.cpp(96): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\gameobject.cpp(277): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\gameobject.cpp(282): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\gameobject.cpp(381): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\gameobject.cpp(385): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\gameobject.cpp(492): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  GOBackground.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\gobackground.cpp(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  GOEnemy.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\goenemy.cpp(127): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\goenemy.cpp(132): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+  GOPlayer.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\goplayer.cpp(127): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\goplayer.cpp(132): warning C4244: 'argument': conversion from 'unsigned __int64' to 'float', possible loss of data
+  main.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  MultiplyVelocityWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\multiplyvelocitywindow.cpp(52): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\multiplyvelocitywindow.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RelativeWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\relativewindow.cpp(55): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\relativewindow.cpp(58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\relativewindow.cpp(86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\relativewindow.cpp(87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ShootWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\shootwindow.cpp(55): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\shootwindow.cpp(58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SoundManager.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\soundmanager.cpp(28): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\soundmanager.cpp(28): note: placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\soundmanager.cpp(60): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\soundmanager.cpp(60): note: placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\soundmanager.cpp(81): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\soundmanager.cpp(81): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\soundmanager.cpp(78): warning C4101: 'event': unreferenced local variable
+  SubtractVelocityWindow.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\subtractvelocitywindow.cpp(52): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\subtractvelocitywindow.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\subtractvelocitywindow.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\subtractvelocitywindow.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  UIButton.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uibutton.cpp(54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uibutton.cpp(66): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  UIDragDrop.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+  UIScrollbar.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+  UISelectionBox.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uiselectionbox.cpp(57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uiselectionbox.cpp(184): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uiselectionbox.cpp(248): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  UILabel.cpp
+  UIManager.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\exgameobject.h(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(199): warning C4018: '<': signed/unsigned mismatch
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(548): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(551): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(552): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(554): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(562): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(565): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(566): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uimanager.cpp(568): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  UITextBox.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uitextbox.cpp(82): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uitextbox.cpp(98): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uitextbox.cpp(134): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uitextbox.cpp(159): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UIVScrollBar.cpp
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\eventmanager.h(24): warning C4244: '=': conversion from 'Uint64' to 'float', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uivscrollbar.cpp(38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uivscrollbar.cpp(75): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uivscrollbar.cpp(87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uivscrollbar.cpp(88): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\uivscrollbar.cpp(118): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+c:\users\c017916e\documents\spaceshooterengine\shootemupengine\shootemupengine\soundmanager.cpp(33): warning C4715: 'SoundManager::GetMusic': not all control paths return a value
+  ShootEmUpEngine.vcxproj -> C:\Users\c017916e\Documents\SpaceShooterEngine\ShootEmUpEngine\x64\Debug\ShootEmUpEngine.exe

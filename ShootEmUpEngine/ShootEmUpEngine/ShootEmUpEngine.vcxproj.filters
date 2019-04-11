@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\UIComponents">
+      <UniqueIdentifier>{a278d9ad-d68e-416c-833f-e64676eb243d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Additional Windows">
+      <UniqueIdentifier>{3791f44a-d6b7-4178-b4b3-ecc7e98db22f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects">
+      <UniqueIdentifier>{cabeac43-7045-4e18-8fa4-05c999ae08d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Additional Windows">
+      <UniqueIdentifier>{c5bf9bc2-5c80-4c53-890a-7033022e0609}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Executable">
+      <UniqueIdentifier>{699d7c3b-46f8-4cc4-90d3-16b6d2e26359}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UIManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EventManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UIVScrollBar.cpp">
+      <Filter>Source Files\UIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="UITextBox.cpp">
+      <Filter>Source Files\UIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="UISelectionBox.cpp">
+      <Filter>Source Files\UIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="UIScrollbar.cpp">
+      <Filter>Source Files\UIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="UILabel.cpp">
+      <Filter>Source Files\UIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="UIDragDrop.cpp">
+      <Filter>Source Files\UIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="UIButton.cpp">
+      <Filter>Source Files\UIComponents</Filter>
+    </ClCompile>
+    <ClCompile Include="ActionSelectionWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="EventSelectionWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="GOPlayer.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="GOEnemy.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="GOBackground.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="AddScoreWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="DoAnimationWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="DoSoundEffectWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="RelativeWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="AddVelocityWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiplyVelocityWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="SubtractVelocityWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="ShootWindow.cpp">
+      <Filter>Source Files\Additional Windows</Filter>
+    </ClCompile>
+    <ClCompile Include="EXComponent.cpp">
+      <Filter>Executable</Filter>
+    </ClCompile>
+    <ClCompile Include="EXGameEngine.cpp">
+      <Filter>Executable</Filter>
+    </ClCompile>
+    <ClCompile Include="EXGameObject.cpp">
+      <Filter>Executable</Filter>
+    </ClCompile>
+    <ClCompile Include="EXGOBackground.cpp">
+      <Filter>Executable</Filter>
+    </ClCompile>
+    <ClCompile Include="EXGOBullet.cpp">
+      <Filter>Executable</Filter>
+    </ClCompile>
+    <ClCompile Include="EXGOEnemy.cpp">
+      <Filter>Executable</Filter>
+    </ClCompile>
+    <ClCompile Include="EXCollisionManager.cpp">
+      <Filter>Executable</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EngineManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UIManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enums.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FileDialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UIElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSelectionWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="ActionSelectionWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="DoSoundEffectWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="AddScoreWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="DoAnimationWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="RelativeWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="AddVelocityWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiplyVelocityWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="SubtractVelocityWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="ShootWindow.h">
+      <Filter>Header Files\Additional Windows</Filter>
+    </ClInclude>
+    <ClInclude Include="EXCommon.h">
+      <Filter>Executable</Filter>
+    </ClInclude>
+    <ClInclude Include="EXComponent.h">
+      <Filter>Executable</Filter>
+    </ClInclude>
+    <ClInclude Include="EXGameEngine.h">
+      <Filter>Executable</Filter>
+    </ClInclude>
+    <ClInclude Include="EXGameObject.h">
+      <Filter>Executable</Filter>
+    </ClInclude>
+    <ClInclude Include="EXCollisionManager.h">
+      <Filter>Executable</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{07FCA83B-8E09-420C-B37D-3994FD572B2D}</ProjectGuid>
+    <RootNamespace>ShootEmUpEngine</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>ShootEmUpEngine</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>$(ProjectDir)\SDL2_image-2.0.3\include;$(SolutionDir)\ShootEmUpEngine\SDL2_mixer-2.0.2\include;$(SolutionDir)\ShootEmUpEngine\SDL2_ttf-2.0.14\include;$(SolutionDir)\ShootEmUpEngine\JsonC++\;$(SolutionDir)\ShootEmUpEngine\SDL2-2.0.8\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(ProjectDir)\SDL2_image-2.0.3\lib\x64;$(SolutionDir)\ShootEmUpEngine\SDL2_mixer-2.0.2\lib\x64;$(SolutionDir)\ShootEmUpEngine\SDL2_ttf-2.0.14\lib\x64;$(SolutionDir)\ShootEmUpEngine\SDL2-2.0.8\lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>$(ProjectDir)\SDL2_image-2.0.3\include;C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(ProjectDir)\SDL2_image-2.0.3\lib\x64;C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>SDL2.lib;SDL2main.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <AdditionalLibraryDirectories>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(ProjectDir)\SDL2_image-2.0.3\include;$(SolutionDir)\ShootEmUpEngine\SDL2_mixer-2.0.2\include;$(SolutionDir)\ShootEmUpEngine\SDL2_ttf-2.0.14\include;$(SolutionDir)\ShootEmUpEngine\SDL2-2.0.8\include</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_ttf.lib;SDL2_mixer.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>SDL2.lib;SDL2main.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+      <AdditionalLibraryDirectories>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\lib\x86;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(ProjectDir)\SDL2_image-2.0.3\include;C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>C:\Users\c017916e\OneDrive - Staffordshire University\Studio Sim\ShootEmUpEngine\ShootEmUpEngine\SDL2-2.0.8\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="ActionSelectionWindow.cpp" />
+    <ClCompile Include="AddScoreWindow.cpp" />
+    <ClCompile Include="AddVelocityWindow.cpp" />
+    <ClCompile Include="Animator.cpp" />
+    <ClCompile Include="Component.cpp" />
+    <ClCompile Include="DoAnimationWindow.cpp" />
+    <ClCompile Include="DoSoundEffectWindow.cpp" />
+    <ClCompile Include="EngineManager.cpp" />
+    <ClCompile Include="EventManager.cpp" />
+    <ClCompile Include="EventSelectionWindow.cpp" />
+    <ClCompile Include="EXCollisionManager.cpp" />
+    <ClCompile Include="EXComponent.cpp" />
+    <ClCompile Include="EXGameEngine.cpp" />
+    <ClCompile Include="EXGameObject.cpp" />
+    <ClCompile Include="EXGOBackground.cpp" />
+    <ClCompile Include="EXGOBullet.cpp" />
+    <ClCompile Include="EXGOEnemy.cpp" />
+    <ClCompile Include="FileDialog.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="GOBackground.cpp" />
+    <ClCompile Include="GOEnemy.cpp" />
+    <ClCompile Include="GOPlayer.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MultiplyVelocityWindow.cpp" />
+    <ClCompile Include="RelativeWindow.cpp" />
+    <ClCompile Include="ShootWindow.cpp" />
+    <ClCompile Include="SoundManager.cpp" />
+    <ClCompile Include="SubtractVelocityWindow.cpp" />
+    <ClCompile Include="UIButton.cpp" />
+    <ClCompile Include="UIDragDrop.cpp" />
+    <ClCompile Include="UIScrollbar.cpp" />
+    <ClCompile Include="UISelectionBox.cpp" />
+    <ClCompile Include="UILabel.cpp" />
+    <ClCompile Include="UIManager.cpp" />
+    <ClCompile Include="UITextBox.cpp" />
+    <ClCompile Include="UIVScrollBar.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ActionSelectionWindow.h" />
+    <ClInclude Include="AddScoreWindow.h" />
+    <ClInclude Include="AddVelocityWindow.h" />
+    <ClInclude Include="Animator.h" />
+    <ClInclude Include="EXCollisionManager.h" />
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="Component.h" />
+    <ClInclude Include="DoAnimationWindow.h" />
+    <ClInclude Include="DoSoundEffectWindow.h" />
+    <ClInclude Include="EngineManager.h" />
+    <ClInclude Include="enums.h" />
+    <ClInclude Include="EventManager.h" />
+    <ClInclude Include="EventSelectionWindow.h" />
+    <ClInclude Include="EXCommon.h" />
+    <ClInclude Include="EXComponent.h" />
+    <ClInclude Include="EXGameEngine.h" />
+    <ClInclude Include="EXGameObject.h" />
+    <ClInclude Include="FileDialog.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="MultiplyVelocityWindow.h" />
+    <ClInclude Include="RelativeWindow.h" />
+    <ClInclude Include="ShootWindow.h" />
+    <ClInclude Include="SoundManager.h" />
+    <ClInclude Include="SubtractVelocityWindow.h" />
+    <ClInclude Include="UIElement.h" />
+    <ClInclude Include="UIManager.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
